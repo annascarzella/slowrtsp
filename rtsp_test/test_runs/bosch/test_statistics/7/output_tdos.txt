@@ -1,0 +1,15 @@
+../../1_1_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.075
+../../1_2_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.062
+../../1_3_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.065
+../../1_4_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.065
+../../1_5_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.066
+../../1_6_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.070
+../../1_7_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.067
+../../1_8_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.063
+../../1_9_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.067
+../../1_10_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.056
+../../1_11_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.066
+../../1_12_CNR_tests_output/7_attack-getparam-loop-nostream/output/capture.pcap: completed_handshakes=64, connection_64_time=315.067
+
+captures_with_64_handshakes: 12
+connection_64_time: avg=315.066, stddev=0.005

@@ -1,0 +1,5 @@
+tcpdump: data link type LINUX_SLL2
+tcpdump: listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes
+1310684 packets captured
+1347410 packets received by filter
+35850 packets dropped by kernel

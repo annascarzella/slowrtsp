@@ -1,0 +1,83 @@
+delay0:
+  ../../3_1_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=570, rst=446, no_answer=0, not_established=446, observed_total=1016
+  ../../3_2_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=603, rst=413, no_answer=0, not_established=413, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=456, rst=560, no_answer=0, not_established=560, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=482, rst=534, no_answer=0, not_established=534, observed_total=1016
+  ../../3_5_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=579, rst=437, no_answer=0, not_established=437, observed_total=1016
+  ../../3_6_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=533, rst=483, no_answer=0, not_established=483, observed_total=1016
+  ../../3_7_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=547, rst=469, no_answer=0, not_established=469, observed_total=1016
+  ../../3_8_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=496, rst=520, no_answer=0, not_established=520, observed_total=1016
+  ../../3_9_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=606, rst=410, no_answer=0, not_established=410, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=448, rst=568, no_answer=0, not_established=568, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=492, rst=524, no_answer=0, not_established=524, observed_total=1016
+  ../../3_12_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/b_delay0/output/capture.pcap: established_200=546, rst=470, no_answer=0, not_established=470, observed_total=1016
+
+delay0001:
+  ../../3_1_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_2_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=1000, rst=16, no_answer=0, not_established=16, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=601, rst=415, no_answer=0, not_established=415, observed_total=1016
+  ../../3_5_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_6_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_7_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_8_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_9_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=926, rst=90, no_answer=0, not_established=90, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=607, rst=392, no_answer=17, not_established=409, observed_total=1016
+  ../../3_12_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/a_delay0001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+
+delay001:
+  ../../3_1_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_2_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=813, rst=28, no_answer=175, not_established=203, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=855, rst=46, no_answer=115, not_established=161, observed_total=1016
+  ../../3_5_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=940, rst=28, no_answer=48, not_established=76, observed_total=1016
+  ../../3_6_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=951, rst=57, no_answer=8, not_established=65, observed_total=1016
+  ../../3_7_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=837, rst=179, no_answer=0, not_established=179, observed_total=1016
+  ../../3_8_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=905, rst=55, no_answer=56, not_established=111, observed_total=1016
+  ../../3_9_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=767, rst=1, no_answer=248, not_established=249, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=764, rst=0, no_answer=252, not_established=252, observed_total=1016
+  ../../3_12_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/c_delay001/output/capture.pcap: established_200=891, rst=44, no_answer=81, not_established=125, observed_total=1016
+
+delay01:
+  ../../3_1_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_2_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=995, rst=21, no_answer=0, not_established=21, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_5_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_6_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=998, rst=18, no_answer=0, not_established=18, observed_total=1016
+  ../../3_7_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_8_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_9_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=997, rst=19, no_answer=0, not_established=19, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_12_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/d_delay01/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+
+delay1:
+  ../../3_1_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_2_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1015, rst=1, no_answer=0, not_established=1, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1014, rst=2, no_answer=0, not_established=2, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1015, rst=1, no_answer=0, not_established=1, observed_total=1016
+  ../../3_5_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_6_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+  ../../3_7_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1014, rst=2, no_answer=0, not_established=2, observed_total=1016
+  ../../3_8_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1008, rst=8, no_answer=0, not_established=8, observed_total=1016
+  ../../3_9_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1012, rst=4, no_answer=0, not_established=4, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1015, rst=1, no_answer=0, not_established=1, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1012, rst=4, no_answer=0, not_established=4, observed_total=1016
+  ../../3_12_DIBRIS_LINUX_tests_output/5_attack-options-loop-1016conn/e_delay1/output/capture.pcap: established_200=1016, rst=0, no_answer=0, not_established=0, observed_total=1016
+
+summary:
+T_d   | Established 200 |         | RST     |         | No answer |        | Not established |        
+------+-----------------+---------+---------+---------+-----------+--------+-----------------+--------
+      | mu              | sigma   | mu      | sigma   | mu        | sigma  | mu              | sigma  
+------+-----------------+---------+---------+---------+-----------+--------+-----------------+--------
+0     | 529.833         | 54.576  | 486.167 | 54.576  | 0.000     | 0.000  | 486.167         | 54.576 
+0.001 | 938.500         | 158.340 | 76.083  | 155.148 | 1.417     | 4.907  | 77.500          | 158.340
+0.01  | 897.583         | 92.615  | 36.500  | 50.407  | 81.917    | 95.536 | 118.417         | 92.615 
+0.1   | 1011.167        | 8.768   | 4.833   | 8.768   | 0.000     | 0.000  | 4.833           | 8.768  
+1     | 1014.083        | 2.392   | 1.917   | 2.392   | 0.000     | 0.000  | 1.917           | 2.392  
+
+retest summary:
+  selected_tests_changed_established_200_to_1016=0

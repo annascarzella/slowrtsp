@@ -1,0 +1,50 @@
+delay0:
+  ../../3_1_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=752, rst_immediate=0, 503=0, no_answer=448, observed_unclassified=269, observed_total=1021
+  ../../3_2_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=825, rst_immediate=0, 503=0, no_answer=375, observed_unclassified=196, observed_total=1021
+  ../../3_3_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=585, rst_immediate=0, 503=0, no_answer=615, observed_unclassified=615, observed_total=1200
+  ../../3_4_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=549, rst_immediate=0, 503=0, no_answer=651, observed_unclassified=651, observed_total=1200
+  ../../3_5_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=686, rst_immediate=0, 503=0, no_answer=514, observed_unclassified=514, observed_total=1200
+  ../../3_6_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=549, rst_immediate=0, 503=0, no_answer=651, observed_unclassified=651, observed_total=1200
+  ../../3_7_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=430, rst_immediate=0, 503=0, no_answer=770, observed_unclassified=770, observed_total=1200
+  ../../3_8_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=554, rst_immediate=0, 503=0, no_answer=646, observed_unclassified=646, observed_total=1200
+  ../../3_9_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=713, rst_immediate=0, 503=0, no_answer=487, observed_unclassified=487, observed_total=1200
+  ../../3_10_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=643, rst_immediate=0, 503=0, no_answer=557, observed_unclassified=557, observed_total=1200
+  ../../3_11_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=512, rst_immediate=0, 503=0, no_answer=688, observed_unclassified=688, observed_total=1200
+  ../../3_12_DIBRIS_LINUX_tests_output/3_find-max-n-options/a_delay0_1200conn/output/capture.pcap: 200_after_options=564, rst_immediate=0, 503=0, no_answer=636, observed_unclassified=636, observed_total=1200
+
+delay0001:
+  ../../3_1_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=5, observed_total=1021
+  ../../3_2_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=5, observed_total=1021
+  ../../3_3_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=185, observed_total=1201
+  ../../3_4_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_5_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_6_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=1, 503=0, no_answer=183, observed_unclassified=183, observed_total=1200
+  ../../3_7_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_8_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=185, observed_total=1201
+  ../../3_9_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=2, 503=0, no_answer=182, observed_unclassified=182, observed_total=1200
+  ../../3_10_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=185, observed_total=1201
+  ../../3_11_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_12_DIBRIS_LINUX_tests_output/3_find-max-n-options/b_delay0001_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+
+delay001:
+  ../../3_1_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=5, observed_total=1021
+  ../../3_2_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=5, observed_total=1021
+  ../../3_3_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_4_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_5_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_6_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_7_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_8_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_9_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_10_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_11_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+  ../../3_12_DIBRIS_LINUX_tests_output/3_find-max-n-options/c_delay01_1200conn/output/capture.pcap: 200_after_options=1016, rst_immediate=0, 503=0, no_answer=184, observed_unclassified=184, observed_total=1200
+
+summary:
+T_d   | 200      |         | RST   |       | 503   |       | No answer |        
+------+----------+---------+-------+-------+-------+-------+-----------+--------
+      | mu       | sigma   | mu    | sigma | mu    | sigma | mu        | sigma  
+------+----------+---------+-------+-------+-------+-------+-----------+--------
+0     | 613.500  | 112.427 | 0.000 | 0.000 | 0.000 | 0.000 | 586.500   | 112.427
+0.001 | 1016.000 | 0.000   | 0.250 | 0.622 | 0.000 | 0.000 | 183.750   | 0.622  
+0.01  | 1016.000 | 0.000   | 0.000 | 0.000 | 0.000 | 0.000 | 184.000   | 0.000  

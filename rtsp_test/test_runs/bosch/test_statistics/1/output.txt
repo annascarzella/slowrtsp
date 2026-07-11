@@ -1,0 +1,16 @@
+../../1_1_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.203
+../../1_2_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.199
+../../1_3_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.205
+../../1_4_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.197
+../../1_5_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.195
+../../1_6_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.198
+../../1_7_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.200
+../../1_8_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.197
+../../1_9_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.202
+../../1_10_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.199
+../../1_11_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.202
+../../1_12_CNR_tests_output/1_find-server-timeout/output/capture.pcap: 60.200
+
+count: 12
+average: 60.199
+standard deviation: 0.002

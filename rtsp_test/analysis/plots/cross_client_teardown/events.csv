@@ -1,0 +1,5 @@
+time_s,event
+0.0,Connection A SETUP
+0.01027,Connection A PLAY
+0.073815,RTP stream begins
+30.016267,Connection B TEARDOWN

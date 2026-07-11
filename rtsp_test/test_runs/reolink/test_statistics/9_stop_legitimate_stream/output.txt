@@ -1,0 +1,16 @@
+../../3_1_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=70.519577, phase2_200_at=161.236951, restart_time=90.717374, phase2_stream=44273, phase2_cseq=1, phase0_server_fins_before_phase2=1015
+../../3_2_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=70.534261, phase2_200_at=161.291253, restart_time=90.756992, phase2_stream=43595, phase2_cseq=1, phase0_server_fins_before_phase2=1014
+../../3_3_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=71.874897, phase2_200_at=164.244614, restart_time=92.369717, phase2_stream=45875, phase2_cseq=1, phase0_server_fins_before_phase2=1015
+../../3_4_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=71.952404, phase2_200_at=164.507916, restart_time=92.555512, phase2_stream=46973, phase2_cseq=1, phase0_server_fins_before_phase2=1014
+../../3_5_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=71.578667, phase2_200_at=166.102201, restart_time=94.523534, phase2_stream=45878, phase2_cseq=1, phase0_server_fins_before_phase2=1015
+../../3_6_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=71.608060, phase2_200_at=167.836742, restart_time=96.228682, phase2_stream=44775, phase2_cseq=1, phase0_server_fins_before_phase2=1013
+../../3_7_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=71.644268, phase2_200_at=159.874779, restart_time=88.230511, phase2_stream=45439, phase2_cseq=1, phase0_server_fins_before_phase2=1013
+../../3_8_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=71.597079, phase2_200_at=163.642749, restart_time=92.045670, phase2_stream=44370, phase2_cseq=1, phase0_server_fins_before_phase2=1014
+../../3_9_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=71.977035, phase2_200_at=168.293735, restart_time=96.316700, phase2_stream=47441, phase2_cseq=1, phase0_server_fins_before_phase2=1009
+../../3_10_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=71.966454, phase2_200_at=156.376184, restart_time=84.409730, phase2_stream=46543, phase2_cseq=1, phase0_server_fins_before_phase2=1015
+../../3_11_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=73.238895, phase2_200_at=165.896711, restart_time=92.657816, phase2_stream=46380, phase2_cseq=1, phase0_server_fins_before_phase2=1015
+../../3_12_DIBRIS_LINUX_tests_output/9_reolink_stop_streaming_and_dos/output/capture.pcap: last_closure_at=71.741258, phase2_200_at=164.024806, restart_time=92.283548, phase2_stream=46981, phase2_cseq=1, phase0_server_fins_before_phase2=1014
+
+captures=12
+avg=91.924649
+stddev=3.286165

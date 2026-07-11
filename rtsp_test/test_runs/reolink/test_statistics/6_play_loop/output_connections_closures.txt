@@ -1,0 +1,103 @@
+delay0:
+  ../../3_1_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=185, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=926
+  ../../3_2_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=262, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=250, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=266, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_5_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=232, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_6_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=255, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_7_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=275, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_8_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=225, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_9_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=177, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=172, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=233, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_12_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/i_delay0/output/capture.pcap: options_200=241, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+
+delay0001:
+  ../../3_1_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=446, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_2_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=508, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=446, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=395, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_5_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=536, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_7_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=417, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_9_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=487, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=446, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=516, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+  ../../3_12_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/a_delay0001/output/capture.pcap: options_200=537, closed_after_setup_cseq4=0, first_connection_closed_at=n/a, last_connection_closed_at=n/a, observed_total=1016
+
+delay01:
+  ../../3_1_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=566, closed_after_setup_cseq4=564, first_connection_closed_at=57.784, last_connection_closed_at=57.820, observed_total=1016
+  ../../3_2_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=565, closed_after_setup_cseq4=564, first_connection_closed_at=57.775, last_connection_closed_at=57.797, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=564, closed_after_setup_cseq4=564, first_connection_closed_at=56.900, last_connection_closed_at=56.942, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=564, closed_after_setup_cseq4=564, first_connection_closed_at=56.788, last_connection_closed_at=56.822, observed_total=1016
+  ../../3_6_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=564, closed_after_setup_cseq4=564, first_connection_closed_at=56.736, last_connection_closed_at=56.769, observed_total=1016
+  ../../3_7_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=564, closed_after_setup_cseq4=564, first_connection_closed_at=57.174, last_connection_closed_at=57.203, observed_total=1016
+  ../../3_8_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=565, closed_after_setup_cseq4=564, first_connection_closed_at=56.816, last_connection_closed_at=56.846, observed_total=1016
+  ../../3_9_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=564, closed_after_setup_cseq4=564, first_connection_closed_at=57.367, last_connection_closed_at=57.385, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=564, closed_after_setup_cseq4=564, first_connection_closed_at=58.046, last_connection_closed_at=58.079, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=564, closed_after_setup_cseq4=564, first_connection_closed_at=57.539, last_connection_closed_at=57.568, observed_total=1016
+  ../../3_12_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/b_delay01/output/capture.pcap: options_200=564, closed_after_setup_cseq4=564, first_connection_closed_at=57.425, last_connection_closed_at=57.459, observed_total=1016
+
+delay1:
+  ../../3_1_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=924, closed_after_setup_cseq4=564, first_connection_closed_at=563.562, last_connection_closed_at=563.583, observed_total=997
+  ../../3_2_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=924, closed_after_setup_cseq4=564, first_connection_closed_at=563.458, last_connection_closed_at=563.493, observed_total=987
+  ../../3_3_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=959, closed_after_setup_cseq4=564, first_connection_closed_at=563.497, last_connection_closed_at=563.518, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=960, closed_after_setup_cseq4=564, first_connection_closed_at=563.558, last_connection_closed_at=563.589, observed_total=1016
+  ../../3_5_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=924, closed_after_setup_cseq4=564, first_connection_closed_at=563.476, last_connection_closed_at=563.500, observed_total=989
+  ../../3_6_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=927, closed_after_setup_cseq4=564, first_connection_closed_at=563.760, last_connection_closed_at=563.785, observed_total=997
+  ../../3_7_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=926, closed_after_setup_cseq4=564, first_connection_closed_at=563.608, last_connection_closed_at=563.636, observed_total=997
+  ../../3_8_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=923, closed_after_setup_cseq4=564, first_connection_closed_at=563.484, last_connection_closed_at=563.507, observed_total=995
+  ../../3_9_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=958, closed_after_setup_cseq4=564, first_connection_closed_at=563.466, last_connection_closed_at=563.513, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=957, closed_after_setup_cseq4=564, first_connection_closed_at=563.579, last_connection_closed_at=563.601, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/c_delay1/output/capture.pcap: options_200=928, closed_after_setup_cseq4=564, first_connection_closed_at=563.455, last_connection_closed_at=563.486, observed_total=1004
+
+delay3:
+  ../../3_2_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=998, closed_after_setup_cseq4=564, first_connection_closed_at=1689.581, last_connection_closed_at=1689.614, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=985, closed_after_setup_cseq4=564, first_connection_closed_at=1689.546, last_connection_closed_at=1689.563, observed_total=1009
+  ../../3_4_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=990, closed_after_setup_cseq4=564, first_connection_closed_at=1689.667, last_connection_closed_at=1689.699, observed_total=1015
+  ../../3_5_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=986, closed_after_setup_cseq4=564, first_connection_closed_at=1689.534, last_connection_closed_at=1689.563, observed_total=1009
+  ../../3_6_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=987, closed_after_setup_cseq4=564, first_connection_closed_at=1689.644, last_connection_closed_at=1689.680, observed_total=1010
+  ../../3_7_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=986, closed_after_setup_cseq4=564, first_connection_closed_at=1689.485, last_connection_closed_at=1689.519, observed_total=1010
+  ../../3_8_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=985, closed_after_setup_cseq4=564, first_connection_closed_at=1689.626, last_connection_closed_at=1689.648, observed_total=1010
+  ../../3_9_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=987, closed_after_setup_cseq4=564, first_connection_closed_at=1689.532, last_connection_closed_at=1689.557, observed_total=1012
+  ../../3_10_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=989, closed_after_setup_cseq4=564, first_connection_closed_at=1689.500, last_connection_closed_at=1689.534, observed_total=1010
+  ../../3_11_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=985, closed_after_setup_cseq4=564, first_connection_closed_at=1689.502, last_connection_closed_at=1689.521, observed_total=1008
+  ../../3_12_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/d_delay3/output/capture.pcap: options_200=986, closed_after_setup_cseq4=564, first_connection_closed_at=1689.450, last_connection_closed_at=1689.470, observed_total=1012
+
+delay4:
+  ../../3_2_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=1002, closed_after_setup_cseq4=564, first_connection_closed_at=2252.662, last_connection_closed_at=2252.694, observed_total=1016
+  ../../3_3_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=1002, closed_after_setup_cseq4=564, first_connection_closed_at=2252.458, last_connection_closed_at=2252.488, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=994, closed_after_setup_cseq4=564, first_connection_closed_at=2252.493, last_connection_closed_at=2252.525, observed_total=1013
+  ../../3_5_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=997, closed_after_setup_cseq4=564, first_connection_closed_at=2252.545, last_connection_closed_at=2252.563, observed_total=1015
+  ../../3_6_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=994, closed_after_setup_cseq4=564, first_connection_closed_at=2252.614, last_connection_closed_at=2252.639, observed_total=1012
+  ../../3_7_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=1002, closed_after_setup_cseq4=564, first_connection_closed_at=2252.534, last_connection_closed_at=2252.552, observed_total=1016
+  ../../3_8_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=994, closed_after_setup_cseq4=564, first_connection_closed_at=2252.456, last_connection_closed_at=2252.479, observed_total=1012
+  ../../3_9_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=995, closed_after_setup_cseq4=564, first_connection_closed_at=2252.564, last_connection_closed_at=2252.593, observed_total=1014
+  ../../3_10_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=1001, closed_after_setup_cseq4=564, first_connection_closed_at=2252.746, last_connection_closed_at=2252.767, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=993, closed_after_setup_cseq4=564, first_connection_closed_at=2252.469, last_connection_closed_at=2252.510, observed_total=1012
+  ../../3_12_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/e_delay4/output/capture.pcap: options_200=994, closed_after_setup_cseq4=564, first_connection_closed_at=2252.461, last_connection_closed_at=2252.485, observed_total=1011
+
+delay5:
+  ../../3_1_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=999, closed_after_setup_cseq4=564, first_connection_closed_at=2815.519, last_connection_closed_at=2815.553, observed_total=1011
+  ../../3_2_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=999, closed_after_setup_cseq4=564, first_connection_closed_at=2815.496, last_connection_closed_at=2815.526, observed_total=1013
+  ../../3_3_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=1005, closed_after_setup_cseq4=564, first_connection_closed_at=2815.572, last_connection_closed_at=2815.594, observed_total=1016
+  ../../3_4_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=1005, closed_after_setup_cseq4=564, first_connection_closed_at=2815.485, last_connection_closed_at=2815.516, observed_total=1016
+  ../../3_5_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=1005, closed_after_setup_cseq4=564, first_connection_closed_at=2815.573, last_connection_closed_at=2815.601, observed_total=1016
+  ../../3_6_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=1005, closed_after_setup_cseq4=564, first_connection_closed_at=2815.760, last_connection_closed_at=2815.790, observed_total=1016
+  ../../3_8_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=999, closed_after_setup_cseq4=564, first_connection_closed_at=2815.492, last_connection_closed_at=2815.511, observed_total=1014
+  ../../3_9_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=1002, closed_after_setup_cseq4=564, first_connection_closed_at=2815.566, last_connection_closed_at=2815.601, observed_total=1016
+  ../../3_10_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=1005, closed_after_setup_cseq4=564, first_connection_closed_at=2815.571, last_connection_closed_at=2815.607, observed_total=1016
+  ../../3_11_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=998, closed_after_setup_cseq4=564, first_connection_closed_at=2815.678, last_connection_closed_at=2815.700, observed_total=1012
+  ../../3_12_DIBRIS_LINUX_tests_output/6_attack-play-loop-1016conn/f_delay5-OK/output/capture.pcap: options_200=999, closed_after_setup_cseq4=564, first_connection_closed_at=2815.607, last_connection_closed_at=2815.623, observed_total=1014
+
+summary:
+T_d   | OPTIONS 200 |        | Closed after SETUP CSeq 4 |       | First connection closed at |       | Last connection closed at |      
+------+-------------+--------+---------------------------+-------+----------------------------+-------+---------------------------+------
+      | mu          | sigma  | mu                        | sigma | mu                         | sigma | mu                        | sigma
+------+-------------+--------+---------------------------+-------+----------------------------+-------+---------------------------+------
+0     | 231.083     | 35.308 | 0.000                     | 0.000 | n/a                        | n/a   | n/a                       | n/a  
+0.001 | 473.400     | 50.266 | 0.000                     | 0.000 | n/a                        | n/a   | n/a                       | n/a  
+0.1   | 564.364     | 0.674  | 564.000                   | 0.000 | 57.304                     | 0.456 | 57.336                    | 0.455
+1     | 937.273     | 16.906 | 564.000                   | 0.000 | 563.536                    | 0.091 | 563.565                   | 0.089
+3     | 987.636     | 3.802  | 564.000                   | 0.000 | 1689.551                   | 0.070 | 1689.579                  | 0.072
+4     | 997.091     | 3.833  | 564.000                   | 0.000 | 2252.545                   | 0.095 | 2252.572                  | 0.094
+5     | 1001.909    | 3.113  | 564.000                   | 0.000 | 2815.574                   | 0.084 | 2815.602                  | 0.083

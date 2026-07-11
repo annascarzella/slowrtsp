@@ -1,0 +1,114 @@
+a_delay0001:
+  ../../1_1_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=5, closed_with_rst=59, total_streams=64
+  ../../1_2_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=13, closed_with_rst=51, total_streams=64
+  ../../1_3_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=15, closed_with_rst=49, total_streams=64
+  ../../1_4_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=18, closed_with_rst=46, total_streams=64
+  ../../1_5_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=18, closed_with_rst=46, total_streams=64
+  ../../1_6_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=14, closed_with_rst=50, total_streams=64
+  ../../1_7_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=15, closed_with_rst=49, total_streams=64
+  ../../1_8_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=16, closed_with_rst=48, total_streams=64
+  ../../1_9_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=14, closed_with_rst=50, total_streams=64
+  ../../1_10_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=13, closed_with_rst=51, total_streams=64
+  ../../1_11_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=15, closed_with_rst=49, total_streams=64
+  ../../1_12_CNR_tests_output/6_attack-play-loop-64conn/a_delay0001/output/capture.pcap: open_after_first_options_401=13, closed_with_rst=51, total_streams=64
+
+a_delay0001 captures: 12
+a_delay0001 open_after_first_options_401: avg=14.083, stddev=3.343
+a_delay0001 closed_with_rst: avg=49.917, stddev=3.343
+a_delay0001 total_streams: avg=64.000, stddev=0.000
+
+b_delay01:
+  ../../1_1_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=57, closed_with_rst=7, total_streams=64
+  ../../1_2_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=57, closed_with_rst=7, total_streams=64
+  ../../1_3_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=60, closed_with_rst=4, total_streams=64
+  ../../1_4_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=57, closed_with_rst=7, total_streams=64
+  ../../1_5_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=51, closed_with_rst=13, total_streams=64
+  ../../1_6_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_7_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_8_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=63, closed_with_rst=1, total_streams=64
+  ../../1_9_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_10_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=59, closed_with_rst=5, total_streams=64
+  ../../1_11_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_12_CNR_tests_output/6_attack-play-loop-64conn/b_delay01/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+
+b_delay01 captures: 12
+b_delay01 open_after_first_options_401: avg=60.333, stddev=4.228
+b_delay01 closed_with_rst: avg=3.667, stddev=4.228
+b_delay01 total_streams: avg=64.000, stddev=0.000
+
+c_delay1:
+  ../../1_1_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=17, closed_with_rst=47, total_streams=64
+  ../../1_2_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_3_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_4_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_5_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_6_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_7_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_8_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_9_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_10_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=2, total_streams=66
+  ../../1_11_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_12_CNR_tests_output/6_attack-play-loop-64conn/c_delay1/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+
+c_delay1 captures: 12
+c_delay1 open_after_first_options_401: avg=60.083, stddev=13.568
+c_delay1 closed_with_rst: avg=4.083, stddev=13.527
+c_delay1 total_streams: avg=64.167, stddev=0.577
+
+d_delay3:
+  ../../1_1_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=46, closed_with_rst=18, total_streams=64
+  ../../1_2_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_3_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_4_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_5_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_6_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_7_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_8_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_9_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_10_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_11_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_12_CNR_tests_output/6_attack-play-loop-64conn/d_delay3/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+
+d_delay3 captures: 12
+d_delay3 open_after_first_options_401: avg=62.500, stddev=5.196
+d_delay3 closed_with_rst: avg=1.500, stddev=5.196
+d_delay3 total_streams: avg=64.000, stddev=0.000
+
+e_delay4:
+  ../../1_1_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=56, closed_with_rst=8, total_streams=64
+  ../../1_2_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_3_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_4_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_5_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_6_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_7_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_8_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_9_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_10_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_11_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_12_CNR_tests_output/6_attack-play-loop-64conn/e_delay4/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+
+e_delay4 captures: 12
+e_delay4 open_after_first_options_401: avg=63.333, stddev=2.309
+e_delay4 closed_with_rst: avg=0.667, stddev=2.309
+e_delay4 total_streams: avg=64.000, stddev=0.000
+
+f_delay5-OK:
+  ../../1_1_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_2_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_3_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_4_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_5_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_6_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_7_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_8_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_9_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_10_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_11_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+  ../../1_12_CNR_tests_output/6_attack-play-loop-64conn/f_delay5-OK/output/capture.pcap: open_after_first_options_401=64, closed_with_rst=0, total_streams=64
+
+f_delay5-OK captures: 12
+f_delay5-OK open_after_first_options_401: avg=64.000, stddev=0.000
+f_delay5-OK closed_with_rst: avg=0.000, stddev=0.000
+f_delay5-OK total_streams: avg=64.000, stddev=0.000
+

@@ -1,0 +1,19 @@
+../../1_1_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=27, 503=9, unclassified=0, total=100
+../../1_2_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=32, 503=4, unclassified=0, total=100
+../../1_3_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=29, 503=7, unclassified=0, total=100
+../../1_4_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=28, 503=8, unclassified=0, total=100
+../../1_5_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=28, 503=8, unclassified=0, total=100
+../../1_6_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=31, 503=5, unclassified=0, total=100
+../../1_7_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=28, 503=8, unclassified=0, total=100
+../../1_8_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=62, rst_immediate=38, 503=0, unclassified=0, total=100
+../../1_9_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=23, 503=13, unclassified=0, total=100
+../../1_10_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=30, 503=6, unclassified=0, total=100
+../../1_11_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=13, 503=23, unclassified=0, total=100
+../../1_12_CNR_tests_output/3_find-max-n-options/a_delay0_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=27, 503=9, unclassified=0, total=100
+
+captures: 12
+401_after_options: avg=63.833, stddev=0.577
+rst_immediate: avg=27.833, stddev=5.890
+503: avg=8.333, stddev=5.598
+unclassified: avg=0.000, stddev=0.000
+total: avg=100.000, stddev=0.000

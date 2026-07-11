@@ -1,0 +1,19 @@
+../../1_1_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=3, 503=33, unclassified=0, total=100
+../../1_2_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=3, 503=33, unclassified=0, total=100
+../../1_3_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=5, 503=31, unclassified=0, total=100
+../../1_4_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=4, 503=32, unclassified=0, total=100
+../../1_5_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=4, 503=32, unclassified=0, total=100
+../../1_6_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=2, 503=34, unclassified=0, total=100
+../../1_7_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=1, 503=35, unclassified=0, total=100
+../../1_8_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=3, 503=33, unclassified=0, total=100
+../../1_9_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=3, 503=33, unclassified=0, total=100
+../../1_10_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=1, 503=35, unclassified=0, total=100
+../../1_11_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=1, 503=35, unclassified=0, total=100
+../../1_12_CNR_tests_output/3_find-max-n-options/b_delay0001_100conn/output/capture.pcap: 401_after_options=64, rst_immediate=5, 503=31, unclassified=0, total=100
+
+captures: 12
+401_after_options: avg=64.000, stddev=0.000
+rst_immediate: avg=2.917, stddev=1.443
+503: avg=33.083, stddev=1.443
+unclassified: avg=0.000, stddev=0.000
+total: avg=100.000, stddev=0.000
